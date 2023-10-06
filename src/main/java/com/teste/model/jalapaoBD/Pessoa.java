@@ -1,4 +1,4 @@
-package com.teste.model.jalapao;
+package com.teste.model.jalapaoBD;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
